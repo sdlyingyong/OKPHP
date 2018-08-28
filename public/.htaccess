@@ -1,4 +1,4 @@
-<IfModule >
+<IfModule mod_rewrite.c>
     # 打开Rewrite功能
     RewriteEngine On
 
